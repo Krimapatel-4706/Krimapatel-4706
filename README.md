@@ -1,7 +1,8 @@
-### Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&reversal=true&text=Dhruvi%Rana&fontSize=80&desc=Full-Stack%20developer&descAlign=70&descAlignY=65&animation=twinkling" align="center" width="100%" />
+
 
 <!--
-**Krimapatel-4706/Krimapatel-4706** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DhruviRana/DhruviRana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -10,7 +11,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
