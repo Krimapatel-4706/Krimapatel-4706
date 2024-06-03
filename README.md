@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&reversal=true&text=Krima%Patel&fontSize=80&desc=Backend%20developer&descAlign=70&descAlignY=65&animation=twinkling" align="center" width="100%" />>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&reversal=true&text=Krima%Patel&fontSize=80&desc=Backend%20Developer&descAlign=70&descAlignY=65&animation=twinkling" align="center" width="100%" />>
 
 
 <!--
